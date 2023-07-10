@@ -1,6 +1,9 @@
 # Mass-Mail-Dispatcher
 A mass mail dispatcher project in web development typically involves building a system that allows users to send bulk emails to a large number of recipients. This type of project is commonly used in email marketing, newsletter distribution, and communication with a large user base. Designed this website using HTML,CSS Jvascript during my one month internship in EXPOSYS DATA LABS.
+
+
 Features
+
 The Mass Mail Dispatcher project offers the following key features:
 
 User Authentication:
