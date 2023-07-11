@@ -10,10 +10,12 @@ User Authentication:
 
 User registration and login functionality to ensure secure access to the system.
 Password reset and recovery options for forgotten passwords.
+
 Dashboard:
 
 A user-friendly dashboard displaying an overview of the sent emails, pending emails, and email templates.
 Real-time statistics and charts to track email campaign performance.
+
 Recipient Management:
 
 Import and manage recipient lists from various sources, such as CSV files or manual entry.
